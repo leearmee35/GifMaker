@@ -3,7 +3,6 @@
  */
 import React, { Component } from 'react';
 import ImageHolder from './ImageHolder';
-import DropDown from './DropDown';
 import Dropzone from 'react-dropzone';
 import gifshot from 'gifshot';
 
